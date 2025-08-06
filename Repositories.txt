@@ -1,2 +1,2 @@
-MicroWin||iwr -useb https://christitus.com/win | iex
-Microsoft Scripts||irm https://get.activated.win | iex
+MicroWin::nil::iwr -useb https://christitus.com/win | iex
+Microsoft Scripts::nil::irm https://get.activated.win | iex
